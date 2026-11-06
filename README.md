@@ -121,7 +121,7 @@ A mobile car wash platform: customers book a wash, a biker comes to the car, and
 </picture>
 
 
-| | |
+| Area | Tools |
 | --- | --- |
 | **UI** | Ant Design, shadcn/ui, Radix UI, Mantine, Framer Motion |
 | **Data and forms** | React Query, SWR, Redux Toolkit, React Hook Form, Formik, Yup, Zod |
@@ -131,11 +131,11 @@ A mobile car wash platform: customers book a wash, a biker comes to the car, and
 
 ## On YouTube
 
-I review tech and explain how it works, in Egyptian Arabic, on **[my channel](https://www.youtube.com/@haleemrafat)**. Recent videos:
+I review tech and explain how it works on **[my channel](https://www.youtube.com/@haleemrafat)**. The videos are in Egyptian Arabic. Recent ones:
 
-- [كل iPhone من 2007 لـ 2026: إيه اللي اتغير في كل جيل؟](https://www.youtube.com/watch?v=BS_MiL_RAl4)
-- [KingSmith WalkingPad G1 Review](https://www.youtube.com/watch?v=hd0Nq02l3Zc)
-- [iPhone Duo vs iPhone 18 Pro: هل الأغلى أحسن فعلاً؟](https://www.youtube.com/watch?v=J0TMcD2OpMo)
+- [Every iPhone from 2007 to 2026](https://www.youtube.com/watch?v=BS_MiL_RAl4)
+- [KingSmith WalkingPad G1 review](https://www.youtube.com/watch?v=hd0Nq02l3Zc)
+- [iPhone Duo vs iPhone 18 Pro](https://www.youtube.com/watch?v=J0TMcD2OpMo)
 
 ## More work
 
