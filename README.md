@@ -73,7 +73,7 @@ A mobile car wash platform: customers book a wash, a biker comes to the car, and
 
 `Next.js` `React` `Tailwind CSS` `shadcn/ui` `Flutter` `BLoC`
 
-**[Source code →](https://github.com/Haleem-rafat/kleano)** · **[Biker app](https://github.com/Haleem-rafat/Kleano-Biker-Flutter-dev)**
+**[Source code →](https://github.com/Haleem-rafat/kleano)** · **[Biker app](https://github.com/Haleem-rafat/kleano/tree/main/biker-app)**
 
 ## Experience
 
