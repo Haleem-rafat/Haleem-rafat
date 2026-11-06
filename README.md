@@ -69,11 +69,11 @@ A full-stack coding challenge that simulates a market feed and shows it live.
 
 ### Kleano
 
-A mobile car wash platform: customers book a wash, a biker comes to the car, and an admin team runs it all from a dashboard. I work on the web apps and the dashboard.
+A mobile car wash platform: customers book a wash, a biker comes to the car, and an admin team runs it all from a dashboard. I work on the web apps, the dashboard and the Flutter biker app.
 
-`Next.js` `React` `Tailwind CSS` `shadcn/ui`
+`Next.js` `React` `Tailwind CSS` `shadcn/ui` `Flutter` `BLoC`
 
-**[Source code →](https://github.com/Haleem-rafat/kleano)**
+**[Source code →](https://github.com/Haleem-rafat/kleano)** · **[Biker app](https://github.com/Haleem-rafat/Kleano-Biker-Flutter-dev)**
 
 ## Experience
 
@@ -109,6 +109,15 @@ A mobile car wash platform: customers book a wash, a biker comes to the car, and
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-backend-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stack-backend-light.svg">
   <img alt="Node.js, NestJS, PostgreSQL, Prisma, MongoDB, Redis, Firebase" src="assets/stack-backend-light.svg">
+</picture>
+
+
+**Mobile**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-mobile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-mobile-light.svg">
+  <img alt="Flutter, Dart" src="assets/stack-mobile-light.svg">
 </picture>
 
 
