@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Haleem Rafat, senior front-end engineer from Egypt" src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img alt="Haleem Rafat, Senior Front-end Engineer, Egypt" src="assets/hero-light.svg" width="100%">
 </picture>
 
 I'm a front-end engineer with 4+ years of experience building web products with **TypeScript, React and Next.js**. At work I lead front-end development at **[Axis Pay](https://www.axisapp.com/)**. Outside work I build my own products, like [Framecast](https://framecasts.com) and [Zaffa](https://zaffa-digital-invitation.vercel.app/en), and I make Egyptian-Arabic tech videos on YouTube.
@@ -11,7 +11,7 @@ I'm a front-end engineer with 4+ years of experience building web products with 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
-  <img alt="4+ years of professional front-end work, 2,348 GitHub contributions in 2026, 4.2K YouTube subscribers, 51 YouTube videos" src="assets/stats-light.svg" width="100%">
+  <img alt="4+ years of front-end work, 2,352 GitHub contributions in 2026, 4.2K YouTube subscribers, 51 YouTube videos" src="assets/stats-light.svg" width="100%">
 </picture>
 
 <sub>Numbers as of November 2026.</sub>
@@ -21,6 +21,12 @@ I'm a front-end engineer with 4+ years of experience building web products with 
 ### Framecast
 
 An AI video studio for YouTube. You type a topic and it takes the video through eight stages: script, narration, footage, render, metadata, thumbnail, shorts and upload.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/pipeline-light.svg">
+  <img alt="Framecast stages: script, narration, footage, render, metadata, thumbnail, shorts, upload" src="assets/pipeline-light.svg" width="100%">
+</picture>
 
 <a href="https://framecasts.com"><img src="assets/framecast.jpg" alt="Framecast home page: Your channel needs three videos a week. You have a full-time job." width="100%"></a>
 
@@ -77,6 +83,12 @@ A mobile car wash platform: customers book a wash, a biker comes to the car, and
 
 ## Experience
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/timeline-light.svg">
+  <img alt="Career timeline: Spiritude from April 2022 to October 2024, Axis Pay from October 2024 to now, then Trading Dashboard, Framecast, AI Video Studio, Zaffa and Kleano in 2026" src="assets/timeline-light.svg" width="100%">
+</picture>
+
 **Senior Front-end Engineer · [Axis Pay](https://www.axisapp.com/)** · Oct 2024 to present
 
 - Lead front-end development and mentor the team through code reviews, technical guidance and documentation.
@@ -91,6 +103,16 @@ A mobile car wash platform: customers book a wash, a biker comes to the car, and
 - Built **Allatre**, an e-commerce bidding platform with Firebase OAuth, Socket.IO chat and Stripe payments.
 - Designed and built **Zabnh Admin**, a full admin dashboard, on my own.
 - Moved data fetching from `useEffect` to React Query and SWR to cut re-renders, and added multi-language support with i18next.
+
+## My 2026 in code
+
+Every building is a real day of my GitHub contributions this year. The taller it is, the more I shipped that day.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/city-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/city-light.svg">
+  <img alt="3D city of 2,352 GitHub contributions in 2026, with one building per active day" src="assets/city-light.svg" width="100%">
+</picture>
 
 ## Tech stack
 
